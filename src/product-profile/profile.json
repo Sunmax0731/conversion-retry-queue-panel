@@ -1,0 +1,19 @@
+{
+  "name": "conversion-retry-queue-panel",
+  "title": "変換キュー・再実行パネル",
+  "domain": "AssetPipeline",
+  "kind": "asset-pipeline",
+  "host": null,
+  "field": "変換キュー",
+  "audience": "素材変換、再試行、ログ確認をまとめたい制作者/開発者",
+  "workflow": "変換ジョブ、入力、出力、失敗理由、再実行条件をキューとして管理する。",
+  "requiredFields": [
+    "jobId",
+    "inputPath",
+    "outputPath",
+    "retryPolicy"
+  ],
+  "warningField": "retryLimitReached",
+  "warningMessage": "再試行上限または失敗傾向を確認してください。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}

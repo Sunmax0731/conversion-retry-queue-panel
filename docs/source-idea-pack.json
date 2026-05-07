@@ -1,0 +1,32 @@
+{
+  "pickupRank": 56,
+  "domain": "AssetPipeline",
+  "ideaNo": 11,
+  "idea": "変換キュー・再実行パネル",
+  "repository": "conversion-retry-queue-panel",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaFolder": "D:/AI/AssetPipeline/created_idea_011_conversion-retry-queue-panel",
+  "zipFile": "D:/AI/AssetPipeline/created_idea_011_conversion-retry-queue-panel/idea_011_conversion-retry-queue-panel.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "conversion-retry-queue-panel",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/AssetPipeline/Design.md",
+    "D:/AI/IDEAS/AssetPipeline/Architecture.md",
+    "D:/AI/IDEAS/AssetPipeline/AGENTS.md",
+    "D:/AI/IDEAS/AssetPipeline/SKILL.md",
+    "D:/AI/AssetPipeline/AGENTS.md",
+    "D:/AI/AssetPipeline/SKILL.md"
+  ],
+  "hostInference": null
+}
