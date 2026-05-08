@@ -1,0 +1,11 @@
+{
+  "product": "conversion-retry-queue-panel",
+  "title": "変換キュー・再実行パネル",
+  "domain": "AssetPipeline",
+  "ideaNo": 11,
+  "platformType": "cli-release-tool",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
